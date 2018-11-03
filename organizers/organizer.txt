@@ -1,0 +1,7 @@
+name: # seu nome
+role: # seu cargo
+bio: # escreva um pouco sobre você: formação, como começou a trabalhar com tecnologia, quanto tempo faz, se você usa o devops no dia a dia
+linkedin: # link para o linkedin, se não tiver, deixe em branco
+website: # link para seu site, se não tiver, deixe em branco
+github: # link para o seu github
+twitter: # seu username no twitter, se não tiver deixe em branco
