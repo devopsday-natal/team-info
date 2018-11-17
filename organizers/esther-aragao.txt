@@ -1,0 +1,7 @@
+name: Esther Aragão da Silva Santana
+role: Estudante de TADS no IFRN/CNAT
+bio: Técnica em Programação de Jogos Digitais e graduanda em TADS, me apaixonei pelas linhas de código através de um projeto do Code Girl em 2015, desde então contribuo em projetos como PyLadies, Code Girl e CADES, estou iniciando minha jornada DevOps
+linkedin: 
+website:
+github: https://github.com/estheraragaos
+twitter: https://twitter.com/estheraragaos
