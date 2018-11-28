@@ -1,0 +1,7 @@
+name: Genilson Filho
+role: Estagiário Sinfo
+bio: Técnico em Informática pelo IFRN e graduadp em Ciências e Tecnologia. Graduando em Engenharia da Computação. Trabalhar com TI há pouco mais de 5 anos.
+linkedin: https://www.linkedin.com/in/jgdsfilho
+website: 
+github: https://github.com/jgdsfilho
+twitter: 
