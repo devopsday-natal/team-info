@@ -1,0 +1,7 @@
+name: # Clara Nobre
+role: # Analista de Suporte Corporativo, na Tink!
+bio: # Técnica em T.I. com ênfase em Redes de Computadores, trabalho com infraestrutura e redes Linux como Analisa de Suporte de Infraestrutura na empresa Tink! e desde então me mantive em atividades envolvendo Cloud Computing, Software Livre, Open Source, Maker, CTF, Hacking e Segurança da Informação. 
+linkedin: # https://www.linkedin.com/in/claranobre
+website: # 
+github: # https://github.com/claranobre
+twitter: # @_claranobre
