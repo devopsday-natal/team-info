@@ -1,0 +1,7 @@
+name: Ariane Silveira Correa
+role: Empresa Junior de Ciencias e Tecnologia (EJECT)
+bio: Tecnica em eletrotenica (SENAI), graduanda em Ciencias e Tecnologia (UFRN), assessora de projetos da EJECT.
+linkedin: 
+website: 
+github: https://github.com/arianesc
+twitter: 
