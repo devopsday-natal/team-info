@@ -1,0 +1,7 @@
+name: Helenita Maciel Gurgel
+role: UI/Web Designer e Ilustradora independente
+bio: Graduanda em Tecnologia em Análise e Desenvolvimento de Sistemas, com enfâse na criação e implementação de interfaces web e mobile. Apaixonada por design e tecnologia, estou aprendendo a unir o melhor dos dois mundos. 
+linkedin: https://www.linkedin.com/in/helenitagurgel/
+website: https://www.behance.net/helenitagurgel
+github: https://github.com/helenitagurgel
+twitter: 
