@@ -1,0 +1,8 @@
+﻿name: Álvaro Portela Figueiredo Neto
+role: Desenvolvedor Web Freelancer
+bio: Programador apaixonado por novidades acompanhando a curva da inovação desde 2009.
+  Entusiasta de mecatrônica e compartilhador nato de conhecimento.
+linkedin: https://www.linkedin.com/in/alvaropfn/
+website: alvaropfn.github.io/
+github: github.com/alvaropfn
+twitter: @alvaropfn
