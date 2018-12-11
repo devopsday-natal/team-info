@@ -1,0 +1,7 @@
+name: Hiago Hubert
+role: Engenheiro de DevOps
+bio: Formado em Análise e Desenvolvimento de Sistemas pelo IFRN, trabalha com desenvolvimento de software há 10 anos. Atualmente trabalha na implantação de ferramentas e práticas de DevOps na Anchor Loans, empresa do ramo financeiro do Estados Unidos. 
+linkedin: https://www.linkedin.com/in/hiago-hubert-0a786549/
+website: http://hiagohubert.github.io/
+github: https://github.com/hiagohubert/
+twitter: https://twitter.com/HubertHiago
