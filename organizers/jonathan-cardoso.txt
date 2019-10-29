@@ -1,7 +1,0 @@
-name: Jonathan Cardoso Ferreira de Moura
-role: Estudante do IFRN/CNAT
-bio: Iniciei na área de TI desde 2014 com curso de técnico em informática para Internet e neste momento estou cursando TADS. Ingressei profissionalmente na area de tecnologia desde de 2016 com projetos acadêmicos e seguidamente em empresas como desenvolvedor web. Comprometido em projetos open source buscando sempre a melhorar o desenvolvimento e a entrega dos mesmos.
-linkedin: https://www.linkedin.com/in/jonathan99moura/
-website: https://jonathanccardoso.github.io/
-github: https://github.com/jonathanccardoso
-twitter:

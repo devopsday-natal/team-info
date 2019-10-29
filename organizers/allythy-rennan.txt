@@ -1,7 +1,0 @@
-name: Allythy Rennan
-role:
-bio: Graduado em Gestão da Tecnologia da Informação. Contribuidor do Projeto Debian. Ex-colaborador do SempreUpdate, onde fui autor por um período de 2 anos. Coordenador da PotiLivre (Comunidade Potiguar de Software Livre). Coordenador do GruPy-RN. Fundador e coordenador do PHP-RN.
-linkedin:
-website: https://allythy.github.io/
-github: https://github.com/allythy
-twitter:
